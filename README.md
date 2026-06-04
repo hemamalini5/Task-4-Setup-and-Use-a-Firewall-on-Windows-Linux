@@ -15,7 +15,7 @@ A firewall acts as a barrier between a trusted internal network and untrusted ex
 5. Removed the rule to restore the system's original state.
 
 ## Proof of Completion
-![Firewall Rule Screenshot](YOUR_IMAGE_NAME_HERE.png)
+![Firewall Rule Screenshot](rule created.png)
 
 ## Interview Question Answers
 
